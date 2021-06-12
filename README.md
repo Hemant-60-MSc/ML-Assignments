@@ -1,2 +1,2 @@
 # Machine-Learning-Assignments
-Practical Tutorial for Machine Learning Class
+Solution to Practical Tutorials for Machine Learning Class by Dr. Alexander Ecker at Georg-August-Universität Göttingen
